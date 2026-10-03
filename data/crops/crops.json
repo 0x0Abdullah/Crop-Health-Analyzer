@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "supported": true,
+    "common_diseases": ["Early Blight", "Late Blight", "Tomato Yellow Leaf Curl Virus", "Bacterial Spot", "Septoria Leaf Spot"]
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "scientific_name": "Solanum tuberosum",
+    "supported": true,
+    "common_diseases": ["Early Blight", "Late Blight", "Blackleg", "Potato Virus Y"]
+  },
+  {
+    "id": "corn",
+    "name": "Corn (Maize)",
+    "scientific_name": "Zea mays",
+    "supported": true,
+    "common_diseases": ["Common Rust", "Northern Corn Leaf Blight", "Gray Leaf Spot"]
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "scientific_name": "Oryza sativa",
+    "supported": true,
+    "common_diseases": ["Rice Blast", "Bacterial Leaf Blight", "Brown Spot"]
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "scientific_name": "Malus domestica",
+    "supported": true,
+    "common_diseases": ["Apple Scab", "Black Rot", "Cedar Apple Rust", "Powdery Mildew"]
+  },
+  {
+    "id": "grape",
+    "name": "Grape",
+    "scientific_name": "Vitis vinifera",
+    "supported": true,
+    "common_diseases": ["Black Rot", "Powdery Mildew", "Downy Mildew", "Leaf Blight"]
+  },
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "scientific_name": "Triticum aestivum",
+    "supported": true,
+    "common_diseases": ["Leaf Rust", "Septoria Tritici Blotch", "Powdery Mildew", "Fusarium Head Blight"]
+  },
+  {
+    "id": "cotton",
+    "name": "Cotton",
+    "scientific_name": "Gossypium hirsutum",
+    "supported": true,
+    "common_diseases": ["Bacterial Blight", "Boll Rot", "Fusarium Wilt"]
+  },
+  {
+    "id": "pepper",
+    "name": "Bell Pepper / Chili",
+    "scientific_name": "Capsicum annuum",
+    "supported": true,
+    "common_diseases": ["Bacterial Spot", "Cercospora Leaf Spot", "Powdery Mildew"]
+  },
+  {
+    "id": "strawberry",
+    "name": "Strawberry",
+    "scientific_name": "Fragaria × ananassa",
+    "supported": true,
+    "common_diseases": ["Leaf Scorch", "Angular Leaf Spot", "Gray Mold (Botrytis)"]
+  }
+]

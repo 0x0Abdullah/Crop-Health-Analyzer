@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#1D6A4D"
+backgroundColor = "#F2F7F4"
+secondaryBackgroundColor = "#E6F0EA"
+textColor = "#16302A"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = true
+enableXsrfProtection = true
+# Matches the app's own per-photo limit (MAX_FILE_SIZE_MB = 8) so the uploader tells the truth.
+maxUploadSize = 8
+
+[browser]
+gatherUsageStats = false

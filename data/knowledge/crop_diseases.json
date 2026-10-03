@@ -1,0 +1,379 @@
+[
+  {
+    "id": "KB-TOM-001",
+    "title": "Tomato Early Blight (Alternaria solani)",
+    "source": "FAO & University Agricultural Extension Guidelines",
+    "crop": "Tomato",
+    "condition": "Early Blight",
+    "category": "Fungal Disease",
+    "content": "Tomato Early Blight caused by Alternaria solani produces distinct concentric dark brown to black rings ('target-like' lesions) on older leaves. Surrounding tissue yellowing occurs early. Leaves gradually drop starting from bottom of plant. Warm, moist weather (75–85°F) promotes spore germination.",
+    "region": "Global",
+    "url": "https://www.fao.org/plant-protection/en/",
+    "last_verified": "2024-01-15",
+    "symptoms": ["concentric brown spots", "target lesions", "yellowing lower leaves", "leaf drop", "stem lesions"],
+    "immediate_actions": [
+      "Prune affected lower leaves that touch or are near the soil.",
+      "Avoid overhead irrigation to keep leaves dry.",
+      "Ensure adequate row spacing to improve canopy airflow."
+    ],
+    "prevention": [
+      "Practice 3-4 year crop rotation with non-solanaceous crops.",
+      "Apply organic straw mulch around plant base to prevent soil splash.",
+      "Plant resistant or tolerant tomato varieties."
+    ],
+    "ipm": [
+      "Monitor lower leaves weekly for early target spots.",
+      "Use bio-fungicides like Bacillus subtilis at first sign of infection.",
+      "Remove and destroy crop debris immediately after harvest."
+    ],
+    "biological_controls": [
+      "Bacillus subtilis biological fungicide sprays.",
+      "Trichoderma harzianum bio-agent soil incorporation."
+    ],
+    "verified_treatments": [
+      "Copper octanoate (copper soap) bio-approved fungicide application per label instructions.",
+      "Potassium bicarbonate foliar spray for early surface inhibition."
+    ],
+    "safety_precautions": [
+      "Always wear gloves and protective eye wear when applying copper fungicides.",
+      "Do not apply copper sprays during extreme heat (>90°F / 32°C) to prevent leaf burn.",
+      "Observe 1-day Pre-Harvest Interval (PHI) for bio-copper preparations."
+    ]
+  },
+  {
+    "id": "KB-TOM-002",
+    "title": "Tomato Late Blight (Phytophthora infestans)",
+    "source": "EPPO & USDA Agricultural Research Service",
+    "crop": "Tomato",
+    "condition": "Late Blight",
+    "category": "Oomycete / Water Mold",
+    "content": "Tomato Late Blight is a devastating water mold pathogen caused by Phytophthora infestans. Symptoms include large, dark water-soaked lesions on leaves and stems, often with white cottony fungal growth on the underside during cool humid weather. Plants can collapse rapidly within days.",
+    "region": "Global / Temperate",
+    "url": "https://www.eppo.int/RESOURCES/eppo_databases",
+    "last_verified": "2024-02-10",
+    "symptoms": ["water-soaked dark lesions", "white mold on undersides", "rapid leaf collapse", "brown soft lesions on fruit"],
+    "immediate_actions": [
+      "Immediately destroy heavily infected plants by bagging and discarding (do not compost).",
+      "Isolate surrounding plants and cease sprinkler irrigation.",
+      "Notify neighboring growers as spores travel long distances in wind."
+    ],
+    "prevention": [
+      "Use certified disease-free transplants.",
+      "Eliminate volunteer tomato and potato plants near fields.",
+      "Choose well-drained fields with high sun exposure."
+    ],
+    "ipm": [
+      "Track regional weather advisories for late blight spore warnings.",
+      "Apply protective preventive bio-copper before extended humid, cool periods."
+    ],
+    "biological_controls": [
+      "Bacillus amyloliquefaciens strain D747 preventive bio-fungicide."
+    ],
+    "verified_treatments": [
+      "Preventive fixed copper hydroxide or copper sulfate treatments under certified label conditions.",
+      "Mancozeb or Chlorothalonil protectant sprays where locally registered and approved."
+    ],
+    "safety_precautions": [
+      "Check localized agricultural extension bulletins for approved active ingredients.",
+      "Observe strict Pre-Harvest Intervals (PHI 5-7 days depending on formulation).",
+      "Wear full protective clothing (N95 mask, nitrile gloves, chemical splash goggles)."
+    ]
+  },
+  {
+    "id": "KB-POT-001",
+    "title": "Potato Early Blight (Alternaria solani)",
+    "source": "USDA-ARS & International Potato Center (CIP)",
+    "crop": "Potato",
+    "condition": "Early Blight",
+    "category": "Fungal Disease",
+    "content": "Alternaria solani affects potato foliage and tubers. Leaves exhibit dark brown, target-ring lesions bounded by leaf veins. Severe infections cause premature defoliation and tuber size reduction.",
+    "region": "Global",
+    "url": "https://cipotato.org/research/",
+    "last_verified": "2023-11-30",
+    "symptoms": ["concentric brown leaf spots", "target spots", "yellow halo", "premature leaf drop"],
+    "immediate_actions": [
+      "Maintain proper field nitrogen levels; nitrogen-deficient plants are highly susceptible.",
+      "Avoid leaf wetness duration over 8 hours."
+    ],
+    "prevention": [
+      "Crop rotation with corn, beans, or small grains.",
+      "Destroy potato vine residue post-harvest."
+    ],
+    "ipm": [
+      "Foliar bio-fungicide protection during early flowering.",
+      "Regular scouting of lower canopy leaves."
+    ],
+    "biological_controls": [
+      "Bacillus subtilis strains."
+    ],
+    "verified_treatments": [
+      "Copper hydroxide preventive treatments.",
+      "Chlorothalonil or Azoxystrobin applications per agricultural extension guidelines."
+    ],
+    "safety_precautions": [
+      "Follow product label application limits to prevent fungicide resistance build-up."
+    ]
+  },
+  {
+    "id": "KB-CORN-001",
+    "title": "Corn Common Rust (Puccinia sorghi)",
+    "source": "CIMMYT & University Extension Service",
+    "crop": "Corn (Maize)",
+    "condition": "Common Rust",
+    "category": "Fungal Disease",
+    "content": "Puccinia sorghi produces small, powdery cinnamon-brown pustules on both upper and lower corn leaf surfaces. As leaves mature, pustules turn dark brown to black. Favored by high humidity and moderate temperatures (60-77°F).",
+    "region": "Global",
+    "url": "https://www.cimmyt.org/",
+    "last_verified": "2023-12-10",
+    "symptoms": ["powdery brown pustules", "cinnamon-colored spots", "chlorotic leaf yellowing", "black pustules in late season"],
+    "immediate_actions": [
+      "Assess crop growth stage; rust late in grain filling rarely causes economic loss."
+    ],
+    "prevention": [
+      "Plant rust-resistant corn hybrids.",
+      "Early planting to avoid peak airborne spore concentrations."
+    ],
+    "ipm": [
+      "Scout upper leaves around tasseling stage (VT to R1).",
+      "Apply fungicides only if susceptible hybrids exceed threshold (10-15% leaf area affected)."
+    ],
+    "biological_controls": [
+      "Bio-control options limited; focus on host plant resistance."
+    ],
+    "verified_treatments": [
+      "Strobilurin or Triazole class fungicides where threshold exceeded."
+    ],
+    "safety_precautions": [
+      "Respect label Pre-Harvest Interval (PHI) for silage or grain harvest."
+    ]
+  },
+  {
+    "id": "KB-RICE-001",
+    "title": "Rice Blast (Magnaporthe oryzae)",
+    "source": "IRRI (International Rice Research Institute)",
+    "crop": "Rice",
+    "condition": "Rice Blast",
+    "category": "Fungal Disease",
+    "content": "Magnaporthe oryzae causes diamond-shaped or spindle-shaped lesions with gray/white centers and reddish-brown borders on leaves. Collar blast and neck rot can lead to complete panicle loss.",
+    "region": "Global Rice Producing Regions",
+    "url": "https://www.irri.org/",
+    "last_verified": "2024-01-10",
+    "symptoms": ["spindle-shaped leaf spots", "gray center with dark margin", "rotten neck at panicle base", "blanked grains"],
+    "immediate_actions": [
+      "Maintain deep water level in paddies to suppress spore germination.",
+      "Avoid excessive nitrogen fertilizer application."
+    ],
+    "prevention": [
+      "Plant resistant varieties certified by local agriculture authority.",
+      "Treat seeds with bio-fungicide before sowing."
+    ],
+    "ipm": [
+      "Balanced fertilizer management (split N doses, adequate Potassium and Silicon).",
+      "Destroy infected straw and stubble."
+    ],
+    "biological_controls": [
+      "Pseudomonas fluorescens seed treatment and foliar spray."
+    ],
+    "verified_treatments": [
+      "Tricyclazole or Isoprothiolane where registered and strictly regulated."
+    ],
+    "safety_precautions": [
+      "Prevent water runoff into aquatic habitats when using agricultural treatments."
+    ]
+  },
+  {
+    "id": "KB-APP-001",
+    "title": "Apple Scab (Venturia inaequalis)",
+    "source": "Cornell University Fruit Pest Management",
+    "crop": "Apple",
+    "condition": "Apple Scab",
+    "category": "Fungal Disease",
+    "content": "Apple Scab produces olive-green to dark brown velvety spots on leaf surfaces and fruit. Infected fruit becomes deformed, cracked, and premature drop occurs.",
+    "region": "Temperate Apple Growing Regions",
+    "url": "https://growingfruit.cornell.edu/",
+    "last_verified": "2024-02-01",
+    "symptoms": ["olive green leaf spots", "velvety dark brown patches", "corky fruit lesions", "distorted leaf growth"],
+    "immediate_actions": [
+      "Rake and destroy fallen overwintered leaf litter under trees."
+    ],
+    "prevention": [
+      "Plant scab-resistant cultivars (e.g., Liberty, Enterprise, Freedom).",
+      "Prune canopy annually to promote rapid drying."
+    ],
+    "ipm": [
+      "Use Mills Table infection models to time sprays post-rain events."
+    ],
+    "biological_controls": [
+      "Limonene / Citrus oil sprays.",
+      "Sulfur or Lime Sulfur organic sprays."
+    ],
+    "verified_treatments": [
+      "Liquid Lime-Sulfur application during green tip to pink bud stage.",
+      "Captan or Myclobutanil under guided spray calendars."
+    ],
+    "safety_precautions": [
+      "Do not apply sulfur within 14 days of oil applications."
+    ]
+  },
+  {
+    "id": "KB-GRP-001",
+    "title": "Grape Powdery Mildew (Erysiphe necator)",
+    "source": "UC IPM Grape Disease Management",
+    "crop": "Grape",
+    "condition": "Powdery Mildew",
+    "category": "Fungal Disease",
+    "content": "Erysiphe necator appears as white to ash-gray powdery coating on leaves, green shoots, and berries. Causes berry scarring, splitting, and off-flavors in wine/table grapes.",
+    "region": "Global Grape Regions",
+    "url": "https://ipm.ucanr.edu/",
+    "last_verified": "2024-01-25",
+    "symptoms": ["white powdery coating", "ash gray dust on leaves", "stunted shoot growth", "cracked berries"],
+    "immediate_actions": [
+      "Improve fruit-zone leaf pulling to increase sun exposure and wind passage."
+    ],
+    "prevention": [
+      "Maintain open canopy architecture with hedging and shoot positioning."
+    ],
+    "ipm": [
+      "Early season preventive sulfur applications start at 2-3 inch shoot growth."
+    ],
+    "biological_controls": [
+      "Bacillus subtilis QST 713.",
+      "Potassium bicarbonate bio-fungicides."
+    ],
+    "verified_treatments": [
+      "Micronized wettable sulfur.",
+      "Horticultural narrow-range mineral oil."
+    ],
+    "safety_precautions": [
+      "Avoid sulfur applications when temperatures exceed 90°F (32°C) to prevent leaf damage."
+    ]
+  },
+  {
+    "id": "KB-WHT-001",
+    "title": "Wheat Stripe Rust (Puccinia striiformis)",
+    "source": "CIMMYT & USDA Wheat Rust Laboratory",
+    "crop": "Wheat",
+    "condition": "Stripe Rust",
+    "category": "Fungal Disease",
+    "content": "Wheat Stripe Rust produces bright yellow-orange pustules arranged in linear stripes along leaf veins. Rapid leaf chlorosis and premature leaf death occur in cool, wet spring weather (45-60°F).",
+    "region": "Global Wheat Regions",
+    "url": "https://www.cimmyt.org/work/wheat/",
+    "last_verified": "2024-02-15",
+    "symptoms": ["yellow-orange pustules in lines", "linear leaf stripes", "leaf chlorosis", "powdery yellow dust"],
+    "immediate_actions": [
+      "Scout flag leaves carefully at boot stage."
+    ],
+    "prevention": [
+      "Plant stripe rust-resistant wheat varieties (e.g. Yr gene resistance).",
+      "Avoid excessive nitrogen fertilization."
+    ],
+    "ipm": [
+      "Apply foliar bio-protection at early stem elongation."
+    ],
+    "biological_controls": [
+      "Bacillus amyloliquefaciens seed and foliar bio-protection."
+    ],
+    "verified_treatments": [
+      "Tebuconazole or Propiconazole foliar fungicide application per regional threshold."
+    ],
+    "safety_precautions": [
+      "Observe 30-day Pre-Harvest Interval (PHI) for grain harvest."
+    ]
+  },
+  {
+    "id": "KB-COT-001",
+    "title": "Cotton Bacterial Blight (Xanthomonas citri pv. malvacearum)",
+    "source": "ICAC (International Cotton Advisory Committee)",
+    "crop": "Cotton",
+    "condition": "Bacterial Blight",
+    "category": "Bacterial Disease",
+    "content": "Bacterial Blight of cotton produces angular, dark brown to black water-soaked lesions bounded by leaf veinlets (Angular Leaf Spot). Systemic infection causes black arm stem lesions and boll rot.",
+    "region": "Tropical and Subtropical Cotton Zones",
+    "url": "https://icac.org/",
+    "last_verified": "2024-01-18",
+    "symptoms": ["angular water-soaked lesions", "dark vein-bounded spots", "black stem lesions", "boll rot"],
+    "immediate_actions": [
+      "Avoid field cultivator entry when leaves are wet to reduce mechanical transmission."
+    ],
+    "prevention": [
+      "Use acid-delinted, certified disease-free planting seed.",
+      "Grow bl-gene resistant cotton cultivars."
+    ],
+    "ipm": [
+      "Incorporate cotton crop residues deeply immediately after picking."
+    ],
+    "biological_controls": [
+      "Copper hydroxide + Bacillus bio-formulation preventive sprays."
+    ],
+    "verified_treatments": [
+      "Fixed copper bactericides applied preventively early in canopy growth."
+    ],
+    "safety_precautions": [
+      "Do not mix copper products with strongly acidic foliar fertilizers."
+    ]
+  },
+  {
+    "id": "KB-PEP-001",
+    "title": "Pepper Bacterial Spot (Xanthomonas euvesicatoria)",
+    "source": "World Vegetable Center (WorldVeg)",
+    "crop": "Bell Pepper / Chili",
+    "condition": "Bacterial Spot",
+    "category": "Bacterial Disease",
+    "content": "Bacterial Spot affects leaves and fruit of pepper. Leaves develop small, water-soaked, dark green spots that turn dark brown with raised margins. Severe infections cause extensive defoliation.",
+    "region": "Global Warm Humid Regions",
+    "url": "https://avrdc.org/",
+    "last_verified": "2024-02-05",
+    "symptoms": ["small water-soaked green spots", "brown raised lesions", "yellowing leaf margin", "defoliation"],
+    "immediate_actions": [
+      "Switch from overhead sprinkler to drip line irrigation immediately."
+    ],
+    "prevention": [
+      "Plant bacterial spot resistant bell pepper varieties (Bs1, Bs2 genes).",
+      "Treat seeds with hot water or sodium hypochlorite."
+    ],
+    "ipm": [
+      "Sanitize field stakes and trays with 10% bleach solution between seasons."
+    ],
+    "biological_controls": [
+      "Bacteriophage bio-treatments targeting Xanthomonas."
+    ],
+    "verified_treatments": [
+      "Copper hydroxide combined with Mancozeb for improved bacterial control."
+    ],
+    "safety_precautions": [
+      "Always wear nitrile gloves and splash goggles when handling copper bactericides."
+    ]
+  },
+  {
+    "id": "KB-STR-001",
+    "title": "Strawberry Leaf Scorch (Diplocarpon earlianum)",
+    "source": "University Fruit Extension Service",
+    "crop": "Strawberry",
+    "condition": "Leaf Scorch",
+    "category": "Fungal Disease",
+    "content": "Diplocarpon earlianum causes dark purple spots on strawberry leaves. Unlike leaf spot, scorch spots broaden into irregular purple blotches without white centers, giving foliage a sun-scorched appearance.",
+    "region": "Global Strawberry Regions",
+    "url": "https://extension.org/",
+    "last_verified": "2024-01-28",
+    "symptoms": ["purple leaf spots", "scorched brown patches", "curled dry leaf edges", "blotchy foliage"],
+    "immediate_actions": [
+      "Mow and collect old foliage immediately after harvest renovation."
+    ],
+    "prevention": [
+      "Plant in full sun with straw mulch bed elevation.",
+      "Select leaf scorch tolerant strawberry cultivars."
+    ],
+    "ipm": [
+      "Ensure proper plant spacing (12-18 inches) to maximize air movement."
+    ],
+    "biological_controls": [
+      "Bacillus subtilis bio-fungicide foliar applications."
+    ],
+    "verified_treatments": [
+      "Fixed copper octanoate or Captan preventive sprays during bloom."
+    ],
+    "safety_precautions": [
+      "Respect 1-day Pre-Harvest Interval (PHI) for fresh market strawberry harvest."
+    ]
+  }
+]
