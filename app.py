@@ -7,6 +7,7 @@ import streamlit as st
 
 from src.config import APP_TITLE
 from src.ui.components import scroll_to_top
+from src.ui.installer_ui import render_pwa_installer_script
 from src.ui.pages import about, analyze, assistant, history, home, learn, plants, settings as settings_page
 from src.ui.state import PAGES, get_services, goto, init_navigation, init_session, init_settings, sync_url
 from src.ui.theme import build_css
@@ -18,8 +19,9 @@ init_session()
 prefs = init_settings(svc.repo)
 page = init_navigation()
 
-# Theme is applied on every run, after callbacks have updated the settings, so changes are instant.
+# Theme and PWA installers are applied on every run.
 st.markdown(build_css(prefs["theme"], prefs["text_size"], prefs["reduce_motion"]), unsafe_allow_html=True)
+render_pwa_installer_script()
 
 with st.container(key="topnav"):
     cols = st.columns(len(PAGES))

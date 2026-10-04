@@ -8,6 +8,7 @@ from src.config import APP_VERSION, DATABASE_PATH, SUPPORTED_CROP_NAMES
 from src.rag.loader import load_knowledge_documents
 from src.settings import TEXT_SIZES, THEMES
 from src.ui.components import callout, chip, esc, key_values, page_header, section, stat_grid
+from src.ui.installer_ui import render_install_section
 from src.ui.state import default_crop, restore_defaults, toast, update_setting
 
 THEME_LABELS = {"System": "🖥️ System", "Light": "☀️ Light", "Dark": "🌙 Dark"}
@@ -120,10 +121,7 @@ def render(svc) -> None:
 
     # ------------------------------------------------------------ install & about
     if sec == sections[4]:
-        section("Use it like an app")
-        st.markdown("- **Chrome / Edge (desktop):** open the browser menu → *Cast, save and share* (or *Apps*) → **Install page as app**.\n"
-                    "- **Android (Chrome):** menu (⋮) → **Add to Home screen** / **Install app**.\n"
-                    "- **iPhone / iPad (Safari):** Share → **Add to Home Screen**.")
-        callout("info", "Installing creates a shortcut that opens the app in its own window. The app itself still runs on the server where you started it.")
+        render_install_section()
         section("About this build")
         key_values([("Version", APP_VERSION), ("Database file", str(DATABASE_PATH)), ("Python", platform.python_version()), ("Streamlit", st.__version__)])
+

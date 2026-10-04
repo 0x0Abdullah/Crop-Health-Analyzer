@@ -24,7 +24,7 @@ DATABASE_DIR.mkdir(parents=True, exist_ok=True)
 # Application Settings
 APP_TITLE = "Crop Health Analyzer"
 APP_SUBTITLE = "AI-powered crop health analysis and agricultural guidance."
-APP_VERSION = "2.0.0"
+APP_VERSION = "3.0.0"
 DEFAULT_CONFIDENCE_THRESHOLD = float(os.getenv("VISION_CONFIDENCE_THRESHOLD", "0.55"))
 
 # LLM Configuration
